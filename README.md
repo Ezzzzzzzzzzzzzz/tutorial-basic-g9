@@ -5,4 +5,4 @@ Esta linea representa un commit realizado con terminal desde git a github
 
 Esta linea representa el commit realizado desde Github Desktop. Este archivo fue modificado con Gedit. 
 
-Esta linea representa el commit realizado desde Visual Studio Code con ayuda de Source Control 
+Esta linea representa el commit realizado desde Visual Studio Code con ayuda de Source Control. 
